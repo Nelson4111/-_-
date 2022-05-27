@@ -104,3 +104,4 @@ WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
 Editing Number Owner And More On [`settings.js`](https://github.com/R-TEAM94/Hiruko-Kagetane/blob/master/settings.js)
+# -_-
